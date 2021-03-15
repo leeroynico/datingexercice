@@ -1,0 +1,20 @@
+pour les départmements : 
+✔ https://getbootstrap.com/docs/5.0/forms/form-control/ (datalist) @done(21-03-01 19:48)
+✔ faire SELECT dans département DB @started(21-03-01 19:48) @done(21-03-02 00:25) @lasted(4h37m15s)
+✔ trouver bon tri @done(21-03-12 22:18)
+
+inscription.php : 
+✔ changer value listes @done(21-03-10 00:38)
+☐ gérer niveau
+✔ probleme text departement @done(21-03-10 00:38)
+
+requetes : 
+  ☐ automatiser les requetes 'create'
+
+  email verif : 
+    ☐ ajouter FILTER VAR
+
+
+
+
+
